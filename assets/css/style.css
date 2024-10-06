@@ -1,0 +1,21 @@
+
+.container {
+    display: flex;
+}
+.inputs {
+    width: 50%;
+    padding: 10px;
+}
+.inputs textarea {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+}
+.iframe-container {
+    width: 50%;
+    padding: 10px;
+}
+iframe {
+    width: 100%;
+    height: 450px;
+}
